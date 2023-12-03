@@ -1,0 +1,7 @@
+{
+  "item.brewdogsmod.basic_item" : "Basic_Item",
+  "item.brewdogsmod.red_sword" : "Red_Sword",
+  "itemGroup.brewdogs_item_group" : "Simple_Items",
+  "block.brewdogsmod.brewdog_block" : "brewdog_Block",
+  "block.brewdogsmod.teacher_block" : "teacher_Block"
+}

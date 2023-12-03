@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "brewdogsmod:block/brewdog_block" }
+  }
+}
